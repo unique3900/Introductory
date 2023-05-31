@@ -76,6 +76,11 @@
     height: 30px;
     cursor: pointer;
 }
+.btns{
+    display: flex;
+    justify-items: center;
+    gap: 15px;
+}
 #mailme{
     text-decoration: none;
     color: white;
